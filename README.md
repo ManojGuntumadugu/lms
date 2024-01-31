@@ -4,4 +4,4 @@ Learning Management System
 
 #### License
 
-MIT
+MIT License
