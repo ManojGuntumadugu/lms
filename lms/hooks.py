@@ -5,6 +5,11 @@ app_description = "Learning Management System"
 app_email = "manoj@gmail.com"
 app_license = "MIT"
 
+fixtures = [
+    "Staff", "Web Page"
+
+]
+
 # Includes in <head>
 # ------------------
 
